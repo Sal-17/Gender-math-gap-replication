@@ -1,1 +1,2 @@
 # Gender-math-gap-replication
+This repository contains code and resources to replicate key analyses from Nollenberger et al. (2016), which investigates the role of culture and gender equality in explaining gender differences in math test scores among second-generation immigrants. The project uses PISA dataset variables to calculate the math gender gap by ancestry country and estimate various regression models.
